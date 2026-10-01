@@ -1,4 +1,4 @@
-Bridging the Gap between Hyperdimensional Computing and Kernel Methods via the Nyström Method [AAAI'25]
+# Bridging the Gap between Hyperdimensional Computing and Kernel Methods via the Nyström Method [AAAI'25]
 
 Official repository for the paper:
 
